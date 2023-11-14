@@ -1,0 +1,25 @@
+{
+  "slug": "Basics",
+  "name": "Basics",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "coelacanth",
+  "author": "The coelacanth",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "SimpleVCO",
+      "name": "SimpleVCO",
+      "description": "Simple VCO",
+      "tags": [
+        "VCO"
+      ]
+    }
+  ]
+}

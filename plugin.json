@@ -20,6 +20,14 @@
       "tags": [
         "VCO"
       ]
+    },
+    {
+      "slug": "SimpleNoise",
+      "name": "SimpleNoise",
+      "description": "Simple Noise",
+      "tags": [
+        "Noise"
+      ]
     }
   ]
 }

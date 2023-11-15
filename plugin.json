@@ -28,6 +28,14 @@
       "tags": [
         "Noise"
       ]
+    },
+    {
+      "slug": "SimpleMult",
+      "name": "SimpleMult",
+      "description": "Simple Mult",
+      "tags": [
+        "Multiple"
+      ]
     }
   ]
 }

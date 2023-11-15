@@ -11,3 +11,4 @@ extern Plugin* pluginInstance;
 // extern Model* modelMyModule;
 extern Model* modelSimpleVCO;
 extern Model* modelSimpleNoise;
+extern Model* modelSimpleMult;

@@ -36,6 +36,14 @@
       "tags": [
         "Multiple"
       ]
+    },
+    {
+      "slug": "SimpleSampleAndHold",
+      "name": "SimpleSampleAndHold",
+      "description": "Simple Sample and Hold",
+      "tags": [
+        "Sample and hold"
+      ]
     }
   ]
 }

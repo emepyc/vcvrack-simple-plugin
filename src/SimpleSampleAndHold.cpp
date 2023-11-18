@@ -25,25 +25,11 @@ struct SimpleSampleAndHold : Module {
 		configOutput(OUT_OUTPUT, "");
 	}
 
-	// dsp::SchmittTrigger clockTrigger; // Declare the clockTrigger
-
 	float lastSample = 0.0f; // Variable to hold the last sampled value
     bool lastTriggerState = false; // State of the trigger
 
 	// Override the ModuleWidget::step() function to implement the module's logic
 	void process(const ProcessArgs& args) override {
-		// float sample = 0.f; // Declare the sample variable
-
-		// // Check if the clock input has a rising edge
-		// if (inputs[CLOCK_INPUT].getVoltage() > 1.f && !clockTrigger.process(inputs[CLOCK_INPUT].getVoltage())) {
-		// 	// If so, sample the signal input and store it
-		// 	sample = inputs[SIGNAL_INPUT].getVoltage();
-		// }
-
-		// // Output the stored sample
-		// outputs[OUT_OUTPUT].setVoltage(sample);
-
-		// Check the trigger input
         bool currentTriggerState = inputs[CLOCK_INPUT].getVoltage() >= 1.0f;
 
         // Sample the input signal when the trigger goes from low to high

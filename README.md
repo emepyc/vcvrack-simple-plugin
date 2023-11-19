@@ -1,4 +1,6 @@
-# Basic Repository
+# :warning: Learning Repository :warning:
+
+:exclamation: **This repository is for learning purposes only and should not be used in any real application.** :exclamation:
 
 This repository contains a collection of basic modules for a modular system, possibly for a digital audio workstation or similar software.
 

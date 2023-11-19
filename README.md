@@ -2,7 +2,7 @@
 
 :exclamation: **This repository is for learning purposes only and should not be used in any real application.** :exclamation:
 
-This repository contains a collection of basic modules for a modular system, possibly for a digital audio workstation or similar software.
+This repository contains a collection of basic VCV Rack 2 modules for learning purposes.
 
 ## Modules
 
@@ -22,7 +22,7 @@ This repository contains a collection of basic modules for a modular system, pos
 
 To build the modules, you will need a C++ compiler and the necessary libraries. The build process is as follows:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Basic.git`
+1. Clone the repository: `git clone https://github.com/emepyc/Basic.git`
 2. Navigate to the repository folder: `cd Basic`
 3. Build the modules: `make`
 

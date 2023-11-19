@@ -13,3 +13,4 @@ extern Model* modelSimpleVCO;
 extern Model* modelSimpleNoise;
 extern Model* modelSimpleMult;
 extern Model* modelSimpleSampleAndHold;
+extern Model* modelSimpleMixer;

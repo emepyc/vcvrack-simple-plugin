@@ -44,6 +44,14 @@
       "tags": [
         "Sample and hold"
       ]
+    },
+    {
+      "slug": "SimpleMixer",
+      "name": "SimpleMixer",
+      "description": "Simple Mixer",
+      "tags": [
+        "Mixer"
+      ]
     }
   ]
 }

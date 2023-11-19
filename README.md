@@ -23,7 +23,7 @@ This repository contains a collection of basic VCV Rack 2 modules for learning p
 These plugins work on VCV Rack 2. Please refer to the [VCV Rack plugin development tutorial](https://vcvrack.com/manual/PluginDevelopmentTutorial) for details.
 To build the modules, you will need a C++ compiler and the necessary libraries. The build process is as follows:
 
-1. Clone the repository: `git clone https://github.com/{repo_name}.git`
+1. Clone the repository: `git clone https://github.com/emepyc/vcvrack-simple-plugin.git`
 2. Navigate to the repository folder: `cd Basic`
 3. Build the modules: `make`
 

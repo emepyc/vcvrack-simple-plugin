@@ -20,6 +20,7 @@ This repository contains a collection of basic VCV Rack 2 modules for learning p
 
 ## Building
 
+These plugins work on VCV Rack 2. Please refer to the [VCV Rack plugin development tutorial](https://vcvrack.com/manual/PluginDevelopmentTutorial) for details.
 To build the modules, you will need a C++ compiler and the necessary libraries. The build process is as follows:
 
 1. Clone the repository: `git clone https://github.com/emepyc/Basic.git`

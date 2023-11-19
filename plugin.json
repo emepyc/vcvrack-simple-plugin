@@ -52,6 +52,14 @@
       "tags": [
         "Mixer"
       ]
+    },
+    {
+      "slug": "SimpleVCA",
+      "name": "SimpleVCA",
+      "description": "Simple VCA",
+      "tags": [
+        "VCA"
+      ]
     }
   ]
 }
